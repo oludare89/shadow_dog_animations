@@ -1,4 +1,4 @@
-# [Shadow Dog Sprite Animations]()
+# [Shadow Dog Sprite Animations](https://oludare89.github.io/shadow_dog_animations/)
 
 This is a website showing sprite animations as part of the JavaScript Game Development Course for Beginners from freeCodeCamp.org by Frank's Laboratory.
 
@@ -16,7 +16,7 @@ The project was deployed to GitHub pages using the following steps:
 3. Scroll down the Settings page until you locate the GitHub pages section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://oludare89.github.io/OctoMuyThai_MS1_Project/) in the GitHub Pages section.
+6. Scroll back down through the page to locate the now published site [link](https://oludare89.github.io/shadow_dog_animations/) in the GitHub Pages section.
 
 ### Forking GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make amendments without changing the original respository using the following steps:
