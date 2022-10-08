@@ -7,6 +7,8 @@ const playerImage = new Image();
 playerImage.src = "images/shadow_dog.png";
 const spriteWidth = 575;
 const spriteHeight = 523;
+let playerState 
+
 let gameFrame = 0;
 const staggerFrames = 5; //higher the staggerFrames the faster the animation
 const spriteAnimations = [];
